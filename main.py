@@ -5,4 +5,4 @@ import sys
 print(sys.argv)
 
 if len(sys.argv) != 3:
-    print("zadej tri argumenty")
+    print("Zadej tri argumenty")
